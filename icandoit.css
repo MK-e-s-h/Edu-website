@@ -1,0 +1,41 @@
+#rel{
+    background-color: red;
+    text-indent: 50px;
+    width: 100%;
+    color: white;
+    font: bold;
+    padding: 10px;
+}
+#ref{
+    background-color: red;
+    text-indent: 50px;
+    width: 100%;
+    color: white;
+    font: bold;
+    padding: 10px;
+    border-style: dotted;
+    border-left-style:ridge ;
+
+}
+#fit{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+#fot{
+    background-color: blue;
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+    border: top 2%;
+    border-top: 10px dotted red;
+}
+#fet{
+  background-color: black; 
+  color: white;
+  text-align: center; 
+padding: 20px;
+border: 10px solid red;
+}
